@@ -11,32 +11,28 @@ A Budget Tracker application that allows users to add their expenses to their bu
 ## Installation
 
 1. Download the repository
-2. `npm install` to install the required npm packages to run
+2. `npm install` to install the npm packages 
 3. Run `npm start`
+4. Open your browser and go to : `http://localhost:3000`
 
 ## Usage
-
-* Open your browser and go to : `http://localhost:3000`
-
 * User can add transactions by inputting the following:
   * Transaction Name
   * Transaction Amount
-  * For deposits - select add funds
-  * For expenses - select subtract funds 
-
+  * Deposits - select add funds
+  * Expenses - select subtract funds 
 * The total amount is reflected
-* The app can be used online or offline, where the offline functionality are:
-  * Enter deposits offline
-  * Enter expenses offline
 
+* The app can be used online or offline, where the the user can enter deposits and expenses offline.
+  
 * See below example: The graph portrays the total funds over time by date entered for each transaction
 
   ![PWA Budget Tracker Screenshot](public/assets/images/demoexample.png)
 
 ## Links
 
-* [Github](https://github.com/nerink/budget-tracker)
-* [Live Heroku App](https://sheltered-dusk-18625.herokuapp.com/)
+* [Github](https://github.com/nerink/budget-tracker--2)
+* [Live Heroku App](https://ghastly-ghost-20980.herokuapp.com/)
 
 ## License
 
